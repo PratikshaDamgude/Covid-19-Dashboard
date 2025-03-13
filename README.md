@@ -38,7 +38,6 @@ The map visualization indicates widespread impact across all continents, with No
 Add interactive filters to allow users to drill down by specific country, date range, or case type.
 Include vaccination data to analyze its impact on case reduction.
 Show a comparative trend between different waves of COVID-19.
-Would you like to add more interactive elements or another dataset to enhance your 
 
 ## Dataset
 "C:\Users\Admin\Downloads\full_grouped.csv"
